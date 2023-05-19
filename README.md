@@ -12,6 +12,8 @@ This repository contains all the code for reproducing the analysis from the manu
 
 - [MCView] (https://github.com/tanaylab/MCView)
 
+- Processed matrices for [Rabbit](https://rabemb.s3.eu-west-1.amazonaws.com/oc_embexe_metacells.h5ad), [Mouse](https://rabemb.s3.eu-west-1.amazonaws.com/mm_embexe_metacells.h5ad)
+
 - Raw FASTQ files are available under SRA accessions Rabbit:[PRJNA943458](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA943458), Mouse:[PRJNA964496](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA964496)
 
 
